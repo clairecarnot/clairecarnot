@@ -1,11 +1,8 @@
-# Hey
-## Hi there 👋
-### Hhoo
+## Hi there ! 👋
 
-## About me
+# About me
 I worked for 6 years 
 Ex Financial controller
-After 8 years of experience as a TV journalist, I decided to transition into the IT field in 2023. This career change has allowed me to combine my passion for analysis and technology, while solving real-world problems through development and project management.
 
 <!--
 **clairecarnot/clairecarnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
