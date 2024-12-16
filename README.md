@@ -1,5 +1,7 @@
 ## Hi there ! 👋
 
+---
+
 ### About me
 I worked for 6 years 
 Ex Financial controller
