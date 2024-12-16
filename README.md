@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About me
 Full-stack developer looking for new professional opportunities (France, Paris).<br>
-After 6 years working in Finance for international and fast-growing tech companies, I transitioned to IT in 2023 to study hands-on programming at 42 School.
+After 6 years working in Finance for international and fast-growing tech companies, I transitioned to IT in 2023 to study programming at 42 School.
 I am now excited to keep learning, building, and contributing to impactful projects by bringing a unique mix of finance and technology experience.<br>
 
 ## 🗓️ My Journey
@@ -20,6 +20,9 @@ This background helps me approach development with both technical and business p
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,django,git,docker,linux" />
 </div>
+
+## 	📫 Contact me
+[Linkedin](www.linkedin.com/in/clairecarnot)
 
 <!--
 **clairecarnot/clairecarnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
