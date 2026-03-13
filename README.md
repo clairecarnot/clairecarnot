@@ -1,5 +1,6 @@
 # Hi there ! 👋
 
+<!--
 ## 🙋‍♀️ About me
 Full-stack developer looking for new professional opportunities (France, Paris).<br>
 After 6 years working in Finance for international and fast-growing tech companies, I transitioned to IT in 2023 to study programming at 42 School.
@@ -22,10 +23,11 @@ This background helps me approach development with both technical and business p
 </div>
 
 ## 	📫 Contact me
-<!--[Linkedin](www.linkedin.com/in/clairecarnot)-->
+<!--[Linkedin](www.linkedin.com/in/clairecarnot)
 <a href="https://www.linkedin.com/in/clairecarnot/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
 
 <!--
 **clairecarnot/clairecarnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
